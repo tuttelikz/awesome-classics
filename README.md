@@ -13,3 +13,4 @@
 
 - Произведения:
     - [Шантарам](https://github.com/tuttelikz/awesome-classics/blob/master/novels/Shantaram.md)
+    - [Мартин Иден](https://github.com/tuttelikz/awesome-classics/blob/master/novels/MartinEden.md)
