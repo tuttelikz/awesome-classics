@@ -12,4 +12,4 @@
 
 
 - Произведения:
-    - Шантарам
+    - [Шантарам](https://github.com/tuttelikz/awesome-classics/blob/master/novels/Shantaram.md)
