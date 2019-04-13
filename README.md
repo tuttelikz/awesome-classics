@@ -6,7 +6,8 @@
 ## Содержание:
 
 - Писатели:
-    - [Алексадр Дюма (отец)]()
+    - Алексадр Дюма (отец)
+        - [Джузеппе Бальзамо](https://github.com/tuttelikz/awesome-classics/blob/master/writers/dumas/Balsamo.md)
     - Жюль Верн
     - Гюго
 
