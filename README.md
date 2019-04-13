@@ -1,2 +1,2 @@
-# awesome-classics
-Classics worth sharing
+# Awesome Classics
+Classics worth sharing!
