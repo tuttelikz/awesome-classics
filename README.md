@@ -9,6 +9,7 @@
     - Алексадр Дюма (отец)
         - [Джузеппе Бальзамо](https://github.com/tuttelikz/awesome-classics/blob/master/writers/dumas/Balsamo.md)
         - [Ожерелье королевы](https://github.com/tuttelikz/awesome-classics/blob/master/writers/dumas/Ojerelye.md)
+        - [Анж Питу](https://github.com/tuttelikz/awesome-classics/blob/master/writers/dumas/AnjPitu.md)
     - Жюль Верн
     - Гюго
 
