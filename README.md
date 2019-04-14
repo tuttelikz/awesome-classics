@@ -17,6 +17,7 @@
         - [Двадцать тысяч льё под водой](https://github.com/tuttelikz/awesome-classics/blob/master/writers/verne/TwentyThousand.md)
         - [Таинственный остров](https://github.com/tuttelikz/awesome-classics/blob/master/writers/verne/TainstvennyOstrov.md)
     - Гюго
+        - [Собор Парижской Богоматери](https://github.com/tuttelikz/awesome-classics/blob/master/writers/hugo/Sobor.md)
 
 - Произведения:
     - [Шантарам](https://github.com/tuttelikz/awesome-classics/blob/master/novels/Shantaram.md)
