@@ -12,6 +12,7 @@
         - [Анж Питу](https://github.com/tuttelikz/awesome-classics/blob/master/writers/dumas/AnjPitu.md)
         - [Графиня де Шарни](https://github.com/tuttelikz/awesome-classics/blob/master/writers/dumas/Grafinya.md)
     - Жюль Верн
+        - [Путешествие к центру Земли](https://github.com/tuttelikz/awesome-classics/blob/master/writers/verne/Puteshestvie.md)
     - Гюго
 
 - Произведения:
