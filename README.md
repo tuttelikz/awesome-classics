@@ -15,6 +15,7 @@
         - [Путешествие к центру Земли](https://github.com/tuttelikz/awesome-classics/blob/master/writers/verne/Puteshestvie.md)
         - [Дети капитана Гранта](https://github.com/tuttelikz/awesome-classics/blob/master/writers/verne/DetiKapitana.md)
         - [Двадцать тысяч льё под водой](https://github.com/tuttelikz/awesome-classics/blob/master/writers/verne/TwentyThousand.md)
+        - [Таинственный остров](https://github.com/tuttelikz/awesome-classics/blob/master/writers/verne/TainstvennyOstrov.md)
     - Гюго
 
 - Произведения:
