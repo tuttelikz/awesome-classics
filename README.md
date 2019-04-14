@@ -13,6 +13,7 @@
         - [Графиня де Шарни](https://github.com/tuttelikz/awesome-classics/blob/master/writers/dumas/Grafinya.md)
     - Жюль Верн
         - [Путешествие к центру Земли](https://github.com/tuttelikz/awesome-classics/blob/master/writers/verne/Puteshestvie.md)
+        - [Дети капитана Гранта](https://github.com/tuttelikz/awesome-classics/blob/master/writers/verne/DetiKapitana.md)
     - Гюго
 
 - Произведения:
