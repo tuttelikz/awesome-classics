@@ -24,3 +24,4 @@
 
 - Экранизации:
     - ["Отелло", У. Шекспир](https://github.com/tuttelikz/awesome-classics/blob/master/films/Othello.md) [[ссылка на фильм]](https://youtu.be/CKOqk-iTcbs)
+    - ["Вокруг света за 80 дней", Ж. Верн](https://github.com/tuttelikz/awesome-classics/blob/master/films/VokrugSveta.md) [[ссылка на фильм]](https://www.youtube.com/playlist?list=PLcEEyVUarmFO-x3jzCYhWS_Az5QRSKxR2)
