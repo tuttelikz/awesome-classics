@@ -8,6 +8,7 @@
 - Писатели:
     - Алексадр Дюма (отец)
         - [Джузеппе Бальзамо](https://github.com/tuttelikz/awesome-classics/blob/master/writers/dumas/Balsamo.md)
+        - [Ожерелье королевы](https://github.com/tuttelikz/awesome-classics/blob/master/writers/dumas/Ojerelye.md)
     - Жюль Верн
     - Гюго
 
