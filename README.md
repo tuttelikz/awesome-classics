@@ -14,7 +14,7 @@
     - Жюль Верн
         - [Путешествие к центру Земли](https://github.com/tuttelikz/awesome-classics/blob/master/writers/verne/Puteshestvie.md)
         - [Дети капитана Гранта](https://github.com/tuttelikz/awesome-classics/blob/master/writers/verne/DetiKapitana.md)
-        - [Двадцать тысяч льё под водой](https://github.com/tuttelikz/awesome-classics/blob/master/writers/verne/TwentyThousand.md)
+        - [Двадцать тысяч льё под водой](https://github.com/tuttelikz/awesome-classics/blob/master/writers/verne/DvadcatTysyach.md)
         - [Таинственный остров](https://github.com/tuttelikz/awesome-classics/blob/master/writers/verne/TainstvennyOstrov.md)
     - Гюго
         - [Собор Парижской Богоматери](https://github.com/tuttelikz/awesome-classics/blob/master/writers/hugo/Sobor.md)
@@ -25,5 +25,5 @@
     - [О чём я говорю, когда говорю о беге](https://github.com/tuttelikz/awesome-classics/blob/master/novels/OChemYaGovoryu.md)
 
 - Экранизации:
-    - ["Отелло", У. Шекспир](https://github.com/tuttelikz/awesome-classics/blob/master/films/Othello.md) [[ссылка на фильм]](https://youtu.be/CKOqk-iTcbs)
+    - ["Отелло", У. Шекспир](https://github.com/tuttelikz/awesome-classics/blob/master/films/Otello.md) [[ссылка на фильм]](https://youtu.be/CKOqk-iTcbs)
     - ["Вокруг света за 80 дней", Ж. Верн](https://github.com/tuttelikz/awesome-classics/blob/master/films/VokrugSveta.md) [[ссылка на фильм]](https://www.youtube.com/playlist?list=PLcEEyVUarmFO-x3jzCYhWS_Az5QRSKxR2)
