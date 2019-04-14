@@ -17,3 +17,6 @@
     - [Шантарам](https://github.com/tuttelikz/awesome-classics/blob/master/novels/Shantaram.md)
     - [Мартин Иден](https://github.com/tuttelikz/awesome-classics/blob/master/novels/MartinEden.md)
     - [О чём я говорю, когда говорю о беге](https://github.com/tuttelikz/awesome-classics/blob/master/novels/OChemYaGovoryu.md)
+
+- Экранизации:
+    - ["Отелло", У. Шекспир](https://github.com/tuttelikz/awesome-classics/blob/master/films/Othello.md) [[ссылка на фильм]](https://youtu.be/CKOqk-iTcbs)
