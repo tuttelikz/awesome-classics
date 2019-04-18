@@ -30,4 +30,4 @@
     - ["Отелло", 1955](https://github.com/tuttelikz/awesome-classics/blob/master/films/Otello.md) [[ссылка на фильм]](https://youtu.be/CKOqk-iTcbs)
     - ["Путешествие к центру Земли", 1999](https://github.com/tuttelikz/awesome-classics/blob/master/films/Puteshestvie.md) [[ссылка на фильм]](https://youtu.be/o79McCQPjTQ)
     - ["Собор Парижской Богоматери", 1956](https://github.com/tuttelikz/awesome-classics/blob/master/films/Sobor.md) [[ссылка на фильм]](https://ok.ru/video/203903077065)
-    
+    - ["Унесенные ветром", 1939](https://github.com/tuttelikz/awesome-classics/blob/master/films/Unesennye.md) [[ссылка на фильм]](https://vimeo.com/122693235)
