@@ -1,10 +1,11 @@
 
 # Awesome Classics
 
-Цитаты и отрывки из великих произведений мировых классиков!
+Цитаты и отрывки из великих произведений мировой классики! (Книги + Кино)
 
 ## Содержание:
 
+**Книги**
 - Писатели:
     - Алексадр Дюма (отец)
         - [Джузеппе Бальзамо](https://github.com/tuttelikz/awesome-classics/blob/master/writers/dumas/Balsamo.md)
@@ -25,7 +26,8 @@
     - [Мартин Иден](https://github.com/tuttelikz/awesome-classics/blob/master/novels/MartinEden.md)
     - [О чём я говорю, когда говорю о беге](https://github.com/tuttelikz/awesome-classics/blob/master/novels/OChemYaGovoryu.md)
 
-- Экранизации:
+**Кино**
+- Экранизации по книгам:
     - ["В поисках капитана Гранта", 1985](https://github.com/tuttelikz/awesome-classics/blob/master/films/VPoiskahKapitana.md) [[ссылка на фильм]](https://youtu.be/RYFZbm7ZJfw)
     - ["Вокруг света за 80 дней", 1989](https://github.com/tuttelikz/awesome-classics/blob/master/films/VokrugSveta.md) [[ссылка на фильм]](https://www.youtube.com/playlist?list=PLcEEyVUarmFO-x3jzCYhWS_Az5QRSKxR2)
     - ["Граф Монте - Кристо", 1954](https://github.com/tuttelikz/awesome-classics/blob/master/films/Graf.md) [[ссылка на фильм]](https://youtu.be/vQle5IVtY94)
@@ -34,3 +36,6 @@
     - ["Путешествие к центру Земли", 1999](https://github.com/tuttelikz/awesome-classics/blob/master/films/Puteshestvie.md) [[ссылка на фильм]](https://youtu.be/o79McCQPjTQ)
     - ["Собор Парижской Богоматери", 1956](https://github.com/tuttelikz/awesome-classics/blob/master/films/Sobor.md) [[ссылка на фильм]](https://ok.ru/video/203903077065)
     - ["Унесенные ветром", 1939](https://github.com/tuttelikz/awesome-classics/blob/master/films/Unesennye.md) [[ссылка на фильм]](https://vimeo.com/122693235)
+    
+- Оскар:
+    - [2019 - "Зеленая книга"](https://github.com/tuttelikz/awesome-classics/blob/master/films/ZelenayaKniga.md) [[описание]](https://ru.wikipedia.org/wiki/%D0%97%D0%B5%D0%BB%D1%91%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC))
