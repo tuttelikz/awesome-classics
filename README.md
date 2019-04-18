@@ -26,6 +26,7 @@
     - [О чём я говорю, когда говорю о беге](https://github.com/tuttelikz/awesome-classics/blob/master/novels/OChemYaGovoryu.md)
 
 - Экранизации:
+    - ["В поисках капитана Гранта", 1985](https://github.com/tuttelikz/awesome-classics/blob/master/films/VPoiskahKapitana.md) [[ссылка на фильм]](https://youtu.be/RYFZbm7ZJfw)
     - ["Вокруг света за 80 дней", 1989](https://github.com/tuttelikz/awesome-classics/blob/master/films/VokrugSveta.md) [[ссылка на фильм]](https://www.youtube.com/playlist?list=PLcEEyVUarmFO-x3jzCYhWS_Az5QRSKxR2)
     - ["Граф Монте - Кристо", 1954](https://github.com/tuttelikz/awesome-classics/blob/master/films/Graf.md) [[ссылка на фильм]](https://youtu.be/vQle5IVtY94)
     - ["Отелло", 1955](https://github.com/tuttelikz/awesome-classics/blob/master/films/Otello.md) [[ссылка на фильм]](https://youtu.be/CKOqk-iTcbs)
