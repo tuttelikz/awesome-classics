@@ -1,7 +1,9 @@
 
-# Awesome Classics
+# Awesome Classics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Цитаты и отрывки из великих произведений мировой классики! (Книги + Кино)
+Цитаты и отрывки из великих произведений мировой классики! (Книги :books: + Кинематограф :movie_camera:)  
+Спасибо за вдохновение: `awesome-scifi`.  
+Если вы желаете внести вклад в увеличение списка, пожалуйста отправьте мне *pull request* или свяжитесь через [s.askaruly@gmail.com](mailto:s.askaruly@gmail.com).
 
 ## Содержание:
 
