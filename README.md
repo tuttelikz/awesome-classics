@@ -21,7 +21,7 @@
         - [Таинственный остров](https://github.com/tuttelikz/awesome-classics/blob/master/writers/verne/TainstvennyOstrov.md)
     - Гюго
         - [Собор Парижской Богоматери](https://github.com/tuttelikz/awesome-classics/blob/master/writers/hugo/Sobor.md) 
-        - [Отверженные](https://github.com/tuttelikz/awesome-classics/blob/master/writers/hugo/Otverjennye1.md) :fire:
+        - [Отверженные](https://github.com/tuttelikz/awesome-classics/blob/master/writers/hugo/Otverjennye.md) :fire:
 
 - Произведения:
     - [Шантарам](https://github.com/tuttelikz/awesome-classics/blob/master/novels/Shantaram.md) :fire:
