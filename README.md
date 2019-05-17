@@ -35,7 +35,7 @@
     - ["Граф Монте - Кристо", 1954](https://github.com/tuttelikz/awesome-classics/blob/master/films/Graf.md) [[ссылка на фильм]](https://youtu.be/vQle5IVtY94)
     - ["Капитан Немо", 1975](https://github.com/tuttelikz/awesome-classics/blob/master/films/KapitanNemo.md) [[ссылка на фильм]](https://www.youtube.com/playlist?list=PL3RYZO9qYh_zg-e31XOA6KawralcZbsNJ)
     - ["Мартин Иден", 1976](https://github.com/tuttelikz/awesome-classics/blob/master/films/MartinEden.md) [[ссылка на фильм]](https://www.youtube.com/watch?v=BVS6pk0kwB0)
-    - ["Отверженные", 1982]() [[ссылка на фильм]](https://youtu.be/ysX2waveBVY)
+    - "Отверженные", 1982 [[ссылка на фильм]](https://youtu.be/ysX2waveBVY)
     - ["Отелло", 1955](https://github.com/tuttelikz/awesome-classics/blob/master/films/Otello.md) [[ссылка на фильм]](https://youtu.be/CKOqk-iTcbs)
     - ["Путешествие к центру Земли", 1999](https://github.com/tuttelikz/awesome-classics/blob/master/films/Puteshestvie.md) [[ссылка на фильм]](https://youtu.be/o79McCQPjTQ)
     - ["Собор Парижской Богоматери", 1956](https://github.com/tuttelikz/awesome-classics/blob/master/films/Sobor.md) [[ссылка на фильм]](https://ok.ru/video/203903077065)
