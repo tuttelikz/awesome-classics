@@ -22,11 +22,12 @@
     - Гюго
         - [Собор Парижской Богоматери](https://github.com/tuttelikz/awesome-classics/blob/master/writers/hugo/Sobor.md) 
         - [Отверженные](https://github.com/tuttelikz/awesome-classics/blob/master/writers/hugo/Otverjennye.md) :fire:
+        - [Труженики моря](https://github.com/tuttelikz/awesome-classics/blob/master/writers/hugo/Trujeniki.md)
 
 - Произведения:
     - [Шантарам](https://github.com/tuttelikz/awesome-classics/blob/master/novels/Shantaram.md) :fire:
     - [Мартин Иден](https://github.com/tuttelikz/awesome-classics/blob/master/novels/MartinEden.md)
-    - [О чём я говорю, когда говорю о беге](https://github.com/tuttelikz/awesome-classics/blob/master/novels/OChemYaGovoryu.md)
+    - [О чём я говорю, когда говорю о беге](https://github.com/tuttelikz/awesome-classics/blob/master/writers/hugo/Trujeniki.md)
 
 **Кино**
 - Экранизации по книгам:
