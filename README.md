@@ -24,11 +24,11 @@
         - [Отверженные](https://github.com/tuttelikz/awesome-classics/blob/master/writers/hugo/Otverjennye.md) :fire:
         - [Труженики моря](https://github.com/tuttelikz/awesome-classics/blob/master/writers/hugo/Trujeniki.md)
     - Джек Лондон
-        - [Мартин Иден]()
+        - [Мартин Иден](https://github.com/tuttelikz/awesome-classics/blob/master/writers/london/MartinEden.md)
     - Харуки Мураками
-        - [О чём я говорю, когда говорю о беге]()
+        - [О чём я говорю, когда говорю о беге](https://github.com/tuttelikz/awesome-classics/tree/master/writers/murakami)
     - Грегори Дэвида Робертса
-        - [Шантарам]() :fire:
+        - [Шантарам](https://github.com/tuttelikz/awesome-classics/blob/master/writers/roberts/Shantaram.md) :fire:
 
 **Кино**
 - Экранизации по книгам:
