@@ -19,15 +19,16 @@
         - [Дети капитана Гранта](https://github.com/tuttelikz/awesome-classics/blob/master/writers/verne/DetiKapitana.md)
         - [Двадцать тысяч льё под водой](https://github.com/tuttelikz/awesome-classics/blob/master/writers/verne/DvadcatTysyach.md)
         - [Таинственный остров](https://github.com/tuttelikz/awesome-classics/blob/master/writers/verne/TainstvennyOstrov.md)
-    - Гюго
+    - Виктор Гюго
         - [Собор Парижской Богоматери](https://github.com/tuttelikz/awesome-classics/blob/master/writers/hugo/Sobor.md) 
         - [Отверженные](https://github.com/tuttelikz/awesome-classics/blob/master/writers/hugo/Otverjennye.md) :fire:
         - [Труженики моря](https://github.com/tuttelikz/awesome-classics/blob/master/writers/hugo/Trujeniki.md)
-
-- Произведения:
-    - [Шантарам](https://github.com/tuttelikz/awesome-classics/blob/master/novels/Shantaram.md) :fire:
-    - [Мартин Иден](https://github.com/tuttelikz/awesome-classics/blob/master/novels/MartinEden.md)
-    - [О чём я говорю, когда говорю о беге](https://github.com/tuttelikz/awesome-classics/blob/master/writers/hugo/Trujeniki.md)
+    - Джек Лондон
+        - [Мартин Иден]()
+    - Харуки Мураками
+        - [О чём я говорю, когда говорю о беге]()
+    - Грегори Дэвида Робертса
+        - [Шантарам]() :fire:
 
 **Кино**
 - Экранизации по книгам:
