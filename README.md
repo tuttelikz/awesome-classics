@@ -27,7 +27,7 @@
     - Джек Лондон
         - [Мартин Иден](https://github.com/tuttelikz/awesome-classics/blob/master/writers/london/MartinEden.md) [[читать]](https://www.e-reading.club/book.php?book=35074)
     - Харуки Мураками
-        - [О чём я говорю, когда говорю о беге](https://github.com/tuttelikz/awesome-classics/tree/master/writers/murakami) [[читать]](https://www.e-reading.club/book.php?book=1001850)
+        - [О чём я говорю, когда говорю о беге](https://github.com/tuttelikz/awesome-classics/blob/master/writers/murakami/OChemYaGovoryu.md) [[читать]](https://www.e-reading.club/book.php?book=1001850)
     - Грегори Дэвида Робертса
         - [Шантарам](https://github.com/tuttelikz/awesome-classics/blob/master/writers/roberts/Shantaram.md) [[читать]](https://www.e-reading.club/book.php?book=142878) :fire:
 
