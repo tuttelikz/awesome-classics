@@ -23,6 +23,7 @@
         - [Собор Парижской Богоматери](https://github.com/tuttelikz/awesome-classics/blob/master/writers/hugo/Sobor.md) [[читать]](https://www.e-reading.club/book.php?book=75822)
         - [Отверженные](https://github.com/tuttelikz/awesome-classics/blob/master/writers/hugo/Otverjennye.md) [[читать]](https://www.e-reading.club/book.php?book=75819) :fire:
         - [Труженики моря](https://github.com/tuttelikz/awesome-classics/blob/master/writers/hugo/Trujeniki.md) [[читать]](https://www.e-reading.club/book.php?book=75819)
+        - [Последний день приговоренного к смерти](https://github.com/tuttelikz/awesome-classics/blob/master/writers/hugo/PosledniDen.md) [[читать]](https://www.e-reading.club/book.php?book=17882)
         
     - Джек Лондон
         - [Мартин Иден](https://github.com/tuttelikz/awesome-classics/blob/master/writers/london/MartinEden.md) [[читать]](https://www.e-reading.club/book.php?book=35074)
