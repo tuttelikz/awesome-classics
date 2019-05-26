@@ -43,6 +43,7 @@
     - ["Отелло", 1955](https://github.com/tuttelikz/awesome-classics/blob/master/films/Otello.md) [[смотреть]](https://youtu.be/CKOqk-iTcbs)
     - ["Путешествие к центру Земли", 1999](https://github.com/tuttelikz/awesome-classics/blob/master/films/Puteshestvie.md) [[смотреть]](https://youtu.be/o79McCQPjTQ)
     - ["Собор Парижской Богоматери", 1956](https://github.com/tuttelikz/awesome-classics/blob/master/films/Sobor.md) [[смотреть]](https://ok.ru/video/203903077065)
+    - ["Труженики моря", 1986](https://github.com/tuttelikz/awesome-classics/blob/master/films/TrujenikiMorya.md) [[смотреть]](https://www.youtube.com/playlist?list=PLcEEyVUarmFME_QERWI3quXjPIsoKtmjo)
     - ["Унесенные ветром", 1939](https://github.com/tuttelikz/awesome-classics/blob/master/films/Unesennye.md) [[смотреть]](https://vimeo.com/122693235)
     
 - Классика и Оскар:
