@@ -27,6 +27,7 @@
         
     - Джек Лондон
         - [Мартин Иден](https://github.com/tuttelikz/awesome-classics/blob/master/writers/london/MartinEden.md) [[читать]](https://www.e-reading.club/book.php?book=35074)
+        - [Зов предков](https://github.com/tuttelikz/awesome-classics/blob/master/writers/london/ZovPredkov.md) [[читать]](https://www.e-reading.club/book.php?book=35039)
     - Харуки Мураками
         - [О чём я говорю, когда говорю о беге](https://github.com/tuttelikz/awesome-classics/blob/master/writers/murakami/OChemYaGovoryu.md) [[читать]](https://www.e-reading.club/book.php?book=1001850)
     - Грегори Дэвида Робертса
