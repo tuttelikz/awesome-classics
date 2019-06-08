@@ -13,7 +13,7 @@
 **Книги**
 - Писатели:
     - Алексадр Дюма (отец)
-        - [Жозеф Бальзамо](#жозеф-бальзамо)
+        - [Жозеф Бальзамо](#Жозеф-бальзамо)
         - [Ожерелье королевы](https://github.com/tuttelikz/awesome-classics/blob/master/writers/dumas/Ojerelye.md) [[читать]](https://www.e-reading.club/book.php?book=21180)
         - [Анж Питу](https://github.com/tuttelikz/awesome-classics/blob/master/writers/dumas/AnjPitu.md) [[читать]](https://www.e-reading.club/book.php?book=21128) :fire:
         - [Графиня де Шарни](https://github.com/tuttelikz/awesome-classics/blob/master/writers/dumas/Grafinya.md) [[читать]](https://www.e-reading.club/book.php?book=21141)
