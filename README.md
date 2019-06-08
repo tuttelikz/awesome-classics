@@ -56,9 +56,9 @@
 
 
 #### [Жозеф Бальзамо](https://www.goodreads.com/book/show/35701314-1?ac=1&from_search=true)
-Автор: Александр Дюма (отец)
-Год: 1853
-Оценка: 4.56
+Автор: Александр Дюма (отец)  
+Год: 1853  
+Оценка: 4.56   
 
 [Текст](https://www.e-reading.club/book.php?book=21149) | [Фильм, 1973](https://www.youtube.com/watch?v=pnPtrNvGvbA&list=PLs_jUw1y_r-HJ3icfVMH_r8f1dCttwVQT) | [Заметки](https://github.com/tuttelikz/awesome-classics/blob/master/writers/dumas/Balsamo.md)
 ------ | ----- | -----
