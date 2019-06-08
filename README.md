@@ -55,8 +55,11 @@
     - [2019 - "Зеленая книга"](https://github.com/tuttelikz/awesome-classics/blob/master/films/ZelenayaKniga.md) [[описание]](https://ru.wikipedia.org/wiki/%D0%97%D0%B5%D0%BB%D1%91%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC))
 
 
-#### Жозеф Бальзамо
-(1853), [4.56]
+#### [Жозеф Бальзамо](https://www.goodreads.com/book/show/35701314-1?ac=1&from_search=true)
+Автор: Александр Дюма (отец)
+Год: 1853
+Оценка: 4.56
+
 [Текст](https://www.e-reading.club/book.php?book=21149) | [Фильм, 1973](https://www.youtube.com/watch?v=pnPtrNvGvbA&list=PLs_jUw1y_r-HJ3icfVMH_r8f1dCttwVQT) | [Заметки](https://github.com/tuttelikz/awesome-classics/blob/master/writers/dumas/Balsamo.md)
 ------ | ----- | -----
 
