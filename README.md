@@ -13,6 +13,7 @@
 **Книги**
 - Писатели:
     - Алексадр Дюма (отец)
+        - [Граф Монте-Кристо](#граф-монте-кристо)
         - [Жозеф Бальзамо](#жозеф-бальзамо)
         - [Ожерелье королевы](#ожерелье-королевы)
         - [Анж Питу](#анж-питу) :fire:
@@ -39,7 +40,6 @@
 
 **Кино**
 - Экранизации по книгам:
-    - ["Граф Монте - Кристо", 1954](https://github.com/tuttelikz/awesome-classics/blob/master/films/Graf.md) [[смотреть]](https://youtu.be/vQle5IVtY94)
     - ["Отелло", 1955](https://github.com/tuttelikz/awesome-classics/blob/master/films/Otello.md) [[смотреть]](https://youtu.be/CKOqk-iTcbs)
     - ["Путешествие к центру Земли", 1999](https://github.com/tuttelikz/awesome-classics/blob/master/films/Puteshestvie.md) [[смотреть]](https://youtu.be/o79McCQPjTQ)
     - ["Собор Парижской Богоматери", 1956](https://github.com/tuttelikz/awesome-classics/blob/master/films/Sobor.md) 
@@ -50,6 +50,16 @@
     - [1994 - "Король Лев"](https://github.com/tuttelikz/awesome-classics/blob/master/films/LionKing.md) [[описание]](https://ru.wikipedia.org/wiki/Король_Лев)
     - [2019 - "Зеленая книга"](https://github.com/tuttelikz/awesome-classics/blob/master/films/ZelenayaKniga.md) [[описание]](https://ru.wikipedia.org/wiki/%D0%97%D0%B5%D0%BB%D1%91%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC))
 
+
+#### [Граф Монте-Кристо](https://www.goodreads.com/book/show/17346212-1?ac=1&from_search=true)
+Автор: Александр Дюма (отец)  
+Год: 1844  
+Оценка: 4.49   
+
+[Текст](https://www.e-reading.club/book.php?book=96304) | [Фильм, 1954](https://youtu.be/vQle5IVtY94) | [Заметки](https://github.com/tuttelikz/awesome-classics/blob/master/films/Graf.md)
+------ | ----- | -----
+
+> В авантюрном романе Александра Дюма (1849), основанном на подлинных исторических фактах, повествуется о событиях, предшествовавших Великой французской революции, о последних годах правления Людовика XV — начале царствования Людовика XVI и Марии-Антуанетты. В центре романа — образ таинственного графа Калиостро (он же — Жозеф Бальзамо), великого магистра, руководящего скрытыми силами французского общества. Это первый роман серии «Записки врача», в которую входят «Ожерелье королевы», «Анж Питу», «Графиня де Шарни».
 
 #### [Жозеф Бальзамо](https://www.goodreads.com/book/show/35701314-1?ac=1&from_search=true)
 Автор: Александр Дюма (отец)  
