@@ -38,7 +38,6 @@
 
 **Кино**
 - Экранизации по книгам:
-    - ["В поисках капитана Гранта", 1985](https://github.com/tuttelikz/awesome-classics/blob/master/films/VPoiskahKapitana.md)
     - ["Вокруг света за 80 дней", 1989](https://github.com/tuttelikz/awesome-classics/blob/master/films/VokrugSveta.md) [[смотреть]](https://www.youtube.com/playlist?list=PLcEEyVUarmFO-x3jzCYhWS_Az5QRSKxR2)
     - ["Граф Монте - Кристо", 1954](https://github.com/tuttelikz/awesome-classics/blob/master/films/Graf.md) [[смотреть]](https://youtu.be/vQle5IVtY94)
     - ["Капитан Немо", 1975](https://github.com/tuttelikz/awesome-classics/blob/master/films/KapitanNemo.md)
