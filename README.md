@@ -19,7 +19,7 @@
         - [Графиня де Шарни](#графиня-де-шарни)
     - Жюль Верн
         - [Путешествие к центру Земли](#путешествие-к-центру-земли)
-        - [Дети капитана Гранта](https://github.com/tuttelikz/awesome-classics/blob/master/writers/verne/DetiKapitana.md) [[читать]](https://www.e-reading.club/book.php?book=11119&qid=23528404)
+        - [Дети капитана Гранта]() [[читать]]()
         - [Двадцать тысяч льё под водой](https://github.com/tuttelikz/awesome-classics/blob/master/writers/verne/DvadcatTysyach.md) [[читать]](https://www.e-reading.club/book.php?book=101642)
         - [Таинственный остров](https://github.com/tuttelikz/awesome-classics/blob/master/writers/verne/TainstvennyOstrov.md) [[читать]](https://www.e-reading.club/book.php?book=85319)
     - Виктор Гюго
@@ -38,7 +38,7 @@
 
 **Кино**
 - Экранизации по книгам:
-    - ["В поисках капитана Гранта", 1985](https://github.com/tuttelikz/awesome-classics/blob/master/films/VPoiskahKapitana.md) [[смотреть]](https://youtu.be/RYFZbm7ZJfw)
+    - ["В поисках капитана Гранта", 1985](https://github.com/tuttelikz/awesome-classics/blob/master/films/VPoiskahKapitana.md)
     - ["Вокруг света за 80 дней", 1989](https://github.com/tuttelikz/awesome-classics/blob/master/films/VokrugSveta.md) [[смотреть]](https://www.youtube.com/playlist?list=PLcEEyVUarmFO-x3jzCYhWS_Az5QRSKxR2)
     - ["Граф Монте - Кристо", 1954](https://github.com/tuttelikz/awesome-classics/blob/master/films/Graf.md) [[смотреть]](https://youtu.be/vQle5IVtY94)
     - ["Капитан Немо", 1975](https://github.com/tuttelikz/awesome-classics/blob/master/films/KapitanNemo.md) [[смотреть]](https://www.youtube.com/playlist?list=PL3RYZO9qYh_zg-e31XOA6KawralcZbsNJ)
@@ -107,3 +107,13 @@
 ------ | ----- | -----
 
 > Ветхий листок пергамента выпадает со страниц древней рукописи. Неутомимый Отто Лиденброк, профессор геологии, и его племянник Аксель приступают к расшифровке, которая представляет собой абсурдное утверждение древнего алхимика: Внутри одного из вулканов Исландии есть проход к центру Земли. Лиденброк готов к путешествию, невзирая на скепсис племянника, утверждающего, что вернуться живыми будет невозможно из-за близости раскаленного ядра. Два дня спустя, прихватив проводника, дядя и племянник пускаются в путешествие настолько фантастическое, что его результаты изменят сам смысл истории. 
+
+#### [Дети капитана Гранта](https://www.goodreads.com/book/show/43590941?ac=1&from_search=true)
+Автор: Жюль Верн  
+Год: 1867  
+Оценка: 4.73   
+
+[Текст](https://www.e-reading.club/book.php?book=11119&qid=23528404) | [Фильм, 1985](https://youtu.be/RYFZbm7ZJfw) | [Заметки](https://github.com/tuttelikz/awesome-classics/blob/master/writers/verne/DetiKapitana.md)
+------ | ----- | -----
+
+> Содержимое желудка рыбы-молота оказалось очень необычным. В нем нашли тщательно закупоренную бутылку с частично поврежденными заметками на трех языках. Они дают ключ к разгадке местонахождения капитана Гранта, чей корабль «Британия» потерпел крушение. В заметках ясно просматривается, что Грант находится на 37-ой параллели южной широты, а вот долгота полностью размыта водой. Гленарван, вместе с женой, двумя детьми капитана Гранта и экипажем яхты «Дункан» отправляются в Южную Америку. В пути они столкнутся с бурями и землетрясениями, наводнениями и пиратами, тропическими дебрями и пустынями, пиратами, людоедами и волками, прежде, чем они пересекут 37-ую параллель от Южной Америки, к Австралии и до Новой Зеландии.
