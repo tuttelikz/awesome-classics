@@ -3,7 +3,7 @@
 
 Коллекция цитат из выдающихся произведений писателей мировой классики! (Книги :books: + Экранизации :movie_camera:)  
 Спасибо за вдохновение: `awesome-scifi`.  
-Если желаете внести свой вклад, пожалуйста отправьте *pull request* или свяжитесь через [s.askaruly@gmail.com](mailto:s.askaruly@gmail.com).
+Если желаете внести свой вклад, пожалуйста отправьте *pull request* или свяжитесь со мной через [s.askaruly@gmail.com](mailto:s.askaruly@gmail.com).
 
 ## Содержание:  
 
