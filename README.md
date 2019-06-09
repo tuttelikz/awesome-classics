@@ -24,7 +24,7 @@
         - [Таинственный остров](#таинственный-остров)
     - Виктор Гюго
         - [Собор Парижской Богоматери](#собор-парижской-богоматери)
-        - [Отверженные](https://github.com/tuttelikz/awesome-classics/blob/master/writers/hugo/Otverjennye.md) [[читать]](https://www.e-reading.club/book.php?book=75819) :fire:
+        - [Отверженные](#отверженные) :fire:
         - [Труженики моря](https://github.com/tuttelikz/awesome-classics/blob/master/writers/hugo/Trujeniki.md) [[читать]](https://www.e-reading.club/book.php?book=75819)
         - [Последний день приговоренного к смерти](https://github.com/tuttelikz/awesome-classics/blob/master/writers/hugo/PosledniDen.md) [[читать]](https://www.e-reading.club/book.php?book=17882)
         
@@ -43,7 +43,7 @@
     - ["Граф Монте - Кристо", 1954](https://github.com/tuttelikz/awesome-classics/blob/master/films/Graf.md) [[смотреть]](https://youtu.be/vQle5IVtY94)
     - ["Капитан Немо", 1975](https://github.com/tuttelikz/awesome-classics/blob/master/films/KapitanNemo.md)
     - ["Мартин Иден", 1976](https://github.com/tuttelikz/awesome-classics/blob/master/films/MartinEden.md) [[смотреть]](https://www.youtube.com/watch?v=BVS6pk0kwB0)
-    - ["Отверженные", 1982](https://github.com/tuttelikz/awesome-classics/blob/master/films/Otverjennye.md) [[смотреть]](https://youtu.be/ysX2waveBVY)
+    - ["Отверженные", 1982](https://github.com/tuttelikz/awesome-classics/blob/master/films/Otverjennye.md)
     - ["Отелло", 1955](https://github.com/tuttelikz/awesome-classics/blob/master/films/Otello.md) [[смотреть]](https://youtu.be/CKOqk-iTcbs)
     - ["Путешествие к центру Земли", 1999](https://github.com/tuttelikz/awesome-classics/blob/master/films/Puteshestvie.md) [[смотреть]](https://youtu.be/o79McCQPjTQ)
     - ["Собор Парижской Богоматери", 1956](https://github.com/tuttelikz/awesome-classics/blob/master/films/Sobor.md) 
@@ -151,3 +151,13 @@
 > Эта история начинается на Крещение, 6 января 1482 года, в день праздника дураков в Париже. Квазимодо, горбатого и уродливого звонаря собора Нотр-Дам коронуют как папу дураков.  
 Но главный на этом веселом празднике все же не он. Цыганка Эсмеральда, прекрасная уличная танцовщица с добрым и щедрым сердцем, своей задорной пляской покорила мужские сердца: и капитана королевских стрелков Феба де Шатопера, и молодого драматурга Пьера Гренгуара, и,особенно, горбуна Квазимодо, и, что стало роковым для плясуньи, архидьякона собора Нотр-Дам отца Клода Фролло.  
 Монументальный эпос об истории французского народа, воплощенный в образе великого собора, ставшего не только свидетелем, но молчаливым участником этой трагической истории любви, замешанной на ненависти и предательстве, жертвенности и самоотречении. 
+
+#### [Отверженные](https://www.goodreads.com/book/show/23007812?ac=1&from_search=true)
+Автор: Виктор Гюго  
+Год: 1862  
+Оценка: 4.16   
+
+[Текст](https://www.e-reading.club/book.php?book=75819) | [Фильм, 1982](https://youtu.be/ysX2waveBVY) | [Заметки](https://github.com/tuttelikz/awesome-classics/blob/master/writers/hugo/Otverjennye.md)
+------ | ----- | -----
+
+> Перед вами один из самых известных персонажей в мировой литературе – Жан Вальжан – благородный крестьянин, отправленный на каторгу за украденную буханку хлеба. «Отверженные» - один из величайших романов во всей мировой литературе. Виктор Гюго погружает читателя в лабиринты парижского дна, ведет его на битву добра и зла, выносит на революционные баррикады. Эта драматическая история захватывает разум и душу: преступление и наказание, неустанное и бесчеловечное преследование Жана Вальжана инспектором Жавером, отчаяние проститутки Фатины, безнравственность Тенардье. Гюго рисует свое полотно французской жизни эпического масштаба, разыгрывает экстравагантный спектакль, который поражает своим классическим великолепием и оставляет вечную печать в душах читателей.
