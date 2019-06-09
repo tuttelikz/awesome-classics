@@ -19,7 +19,7 @@
         - [Графиня де Шарни](#графиня-де-шарни)
     - Жюль Верн
         - [Путешествие к центру Земли](#путешествие-к-центру-земли)
-        - [Дети капитана Гранта]() [[читать]]()
+        - [Дети капитана Гранта](#дети-капитана-гранта)
         - [Двадцать тысяч льё под водой](https://github.com/tuttelikz/awesome-classics/blob/master/writers/verne/DvadcatTysyach.md) [[читать]](https://www.e-reading.club/book.php?book=101642)
         - [Таинственный остров](https://github.com/tuttelikz/awesome-classics/blob/master/writers/verne/TainstvennyOstrov.md) [[читать]](https://www.e-reading.club/book.php?book=85319)
     - Виктор Гюго
