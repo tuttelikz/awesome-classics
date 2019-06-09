@@ -40,8 +40,7 @@
 
 **Кино**
 - Экранизации по книгам:
-    - ["Отелло", 1955](https://github.com/tuttelikz/awesome-classics/blob/master/films/Otello.md) [[смотреть]](https://youtu.be/CKOqk-iTcbs)
-    - ["Собор Парижской Богоматери", 1956](https://github.com/tuttelikz/awesome-classics/blob/master/films/Sobor.md) 
+    - ["Отелло", 1955](https://github.com/tuttelikz/awesome-classics/blob/master/films/Otello.md) [[смотреть]](https://youtu.be/CKOqk-iTcbs) 
     - ["Труженики моря", 1986](https://github.com/tuttelikz/awesome-classics/blob/master/films/TrujenikiMorya.md)
     - ["Унесенные ветром", 1939](https://github.com/tuttelikz/awesome-classics/blob/master/films/Unesennye.md) [[смотреть]](https://vimeo.com/122693235)
     
