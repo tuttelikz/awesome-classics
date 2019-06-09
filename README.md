@@ -18,7 +18,7 @@
         - [Анж Питу](#анж-питу) :fire:
         - [Графиня де Шарни](#графиня-де-шарни)
     - Жюль Верн
-        - [Путешествие к центру Земли](https://github.com/tuttelikz/awesome-classics/blob/master/writers/verne/Puteshestvie.md) [[читать]](https://www.e-reading.club/book.php?book=11156)
+        - [Путешествие к центру Земли](#путешествие-к-центру-земли)
         - [Дети капитана Гранта](https://github.com/tuttelikz/awesome-classics/blob/master/writers/verne/DetiKapitana.md) [[читать]](https://www.e-reading.club/book.php?book=11119&qid=23528404)
         - [Двадцать тысяч льё под водой](https://github.com/tuttelikz/awesome-classics/blob/master/writers/verne/DvadcatTysyach.md) [[читать]](https://www.e-reading.club/book.php?book=101642)
         - [Таинственный остров](https://github.com/tuttelikz/awesome-classics/blob/master/writers/verne/TainstvennyOstrov.md) [[читать]](https://www.e-reading.club/book.php?book=85319)
