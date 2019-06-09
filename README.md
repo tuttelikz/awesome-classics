@@ -20,7 +20,7 @@
     - Жюль Верн
         - [Путешествие к центру Земли](#путешествие-к-центру-земли)
         - [Дети капитана Гранта](#дети-капитана-гранта)
-        - [Двадцать тысяч льё под водой](https://github.com/tuttelikz/awesome-classics/blob/master/writers/verne/DvadcatTysyach.md) [[читать]](https://www.e-reading.club/book.php?book=101642)
+        - [Двадцать тысяч льё под водой](#двадцать-тысяч-лье-под-водой)
         - [Таинственный остров](https://github.com/tuttelikz/awesome-classics/blob/master/writers/verne/TainstvennyOstrov.md) [[читать]](https://www.e-reading.club/book.php?book=85319)
     - Виктор Гюго
         - [Собор Парижской Богоматери](https://github.com/tuttelikz/awesome-classics/blob/master/writers/hugo/Sobor.md) [[читать]](https://www.e-reading.club/book.php?book=75822)
@@ -41,7 +41,7 @@
     - ["В поисках капитана Гранта", 1985](https://github.com/tuttelikz/awesome-classics/blob/master/films/VPoiskahKapitana.md)
     - ["Вокруг света за 80 дней", 1989](https://github.com/tuttelikz/awesome-classics/blob/master/films/VokrugSveta.md) [[смотреть]](https://www.youtube.com/playlist?list=PLcEEyVUarmFO-x3jzCYhWS_Az5QRSKxR2)
     - ["Граф Монте - Кристо", 1954](https://github.com/tuttelikz/awesome-classics/blob/master/films/Graf.md) [[смотреть]](https://youtu.be/vQle5IVtY94)
-    - ["Капитан Немо", 1975](https://github.com/tuttelikz/awesome-classics/blob/master/films/KapitanNemo.md) [[смотреть]](https://www.youtube.com/playlist?list=PL3RYZO9qYh_zg-e31XOA6KawralcZbsNJ)
+    - ["Капитан Немо", 1975](https://github.com/tuttelikz/awesome-classics/blob/master/films/KapitanNemo.md)
     - ["Мартин Иден", 1976](https://github.com/tuttelikz/awesome-classics/blob/master/films/MartinEden.md) [[смотреть]](https://www.youtube.com/watch?v=BVS6pk0kwB0)
     - ["Отверженные", 1982](https://github.com/tuttelikz/awesome-classics/blob/master/films/Otverjennye.md) [[смотреть]](https://youtu.be/ysX2waveBVY)
     - ["Отелло", 1955](https://github.com/tuttelikz/awesome-classics/blob/master/films/Otello.md) [[смотреть]](https://youtu.be/CKOqk-iTcbs)
@@ -117,3 +117,14 @@
 ------ | ----- | -----
 
 > Содержимое желудка рыбы-молота оказалось очень необычным. В нем нашли тщательно закупоренную бутылку с частично поврежденными заметками на трех языках. Они дают ключ к разгадке местонахождения капитана Гранта, чей корабль «Британия» потерпел крушение. В заметках ясно просматривается, что Грант находится на 37-ой параллели южной широты, а вот долгота полностью размыта водой. Гленарван, вместе с женой, двумя детьми капитана Гранта и экипажем яхты «Дункан» отправляются в Южную Америку. В пути они столкнутся с бурями и землетрясениями, наводнениями и пиратами, тропическими дебрями и пустынями, пиратами, людоедами и волками, прежде, чем они пересекут 37-ую параллель от Южной Америки, к Австралии и до Новой Зеландии.
+
+#### [Двадцать тысяч лье под водой](https://www.goodreads.com/book/show/16133417?ac=1&from_search=true)
+Автор: Жюль Верн  
+Год: 1870  
+Оценка: 3.88   
+
+[Текст](https://www.e-reading.club/book.php?book=101642) | [Фильм, 1975](https://www.youtube.com/playlist?list=PL3RYZO9qYh_zg-e31XOA6KawralcZbsNJ) | [Заметки](https://github.com/tuttelikz/awesome-classics/blob/master/writers/verne/DvadcatTysyach.md)
+------ | ----- | -----
+
+> Жюль Верн родился в Нанте и через всю жизнь пронес страстную любовь к морю. Кто знает, как скоро писатель обратил бы свое внимание на морские глубины, не получи он письмо от Жорж Санд. Мадам Жорж Санд была очарована романами «Пять недель на воздушном шаре» и «Путешествие к центру Земли». Давая им высокую оценку, писательница надеялась, что вскоре прочтет роман о подводных приключениях.  
+1866 год, воды Тихого океана стали очень опасны, смертельно опасное чудовище терроризирует проплывающие суда, нанося им непоправимый ущерб. Правительство США отправляет специалиста мо морской фауне профессора Пьера Ароннакса на военном судне «Авраам Линкольн» в экспедицию на поиски чудовища.
