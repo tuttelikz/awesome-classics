@@ -29,7 +29,7 @@
         - [Последний день приговоренного к смерти](#последний-день-приговоренного-к-смерти)
         
     - Джек Лондон
-        - [Мартин Иден](https://github.com/tuttelikz/awesome-classics/blob/master/writers/london/MartinEden.md) [[читать]](https://www.e-reading.club/book.php?book=35074)
+        - [Мартин Иден]()
         - [Зов предков](https://github.com/tuttelikz/awesome-classics/blob/master/writers/london/ZovPredkov.md) [[читать]](https://www.e-reading.club/book.php?book=35039)
     - Харуки Мураками
         - [О чём я говорю, когда говорю о беге](https://github.com/tuttelikz/awesome-classics/blob/master/writers/murakami/OChemYaGovoryu.md) [[читать]](https://www.e-reading.club/book.php?book=1001850)
@@ -42,7 +42,7 @@
     - ["Вокруг света за 80 дней", 1989](https://github.com/tuttelikz/awesome-classics/blob/master/films/VokrugSveta.md) [[смотреть]](https://www.youtube.com/playlist?list=PLcEEyVUarmFO-x3jzCYhWS_Az5QRSKxR2)
     - ["Граф Монте - Кристо", 1954](https://github.com/tuttelikz/awesome-classics/blob/master/films/Graf.md) [[смотреть]](https://youtu.be/vQle5IVtY94)
     - ["Капитан Немо", 1975](https://github.com/tuttelikz/awesome-classics/blob/master/films/KapitanNemo.md)
-    - ["Мартин Иден", 1976](https://github.com/tuttelikz/awesome-classics/blob/master/films/MartinEden.md) [[смотреть]](https://www.youtube.com/watch?v=BVS6pk0kwB0)
+    - ["Мартин Иден", 1976](https://github.com/tuttelikz/awesome-classics/blob/master/films/MartinEden.md)
     - ["Отверженные", 1982](https://github.com/tuttelikz/awesome-classics/blob/master/films/Otverjennye.md)
     - ["Отелло", 1955](https://github.com/tuttelikz/awesome-classics/blob/master/films/Otello.md) [[смотреть]](https://youtu.be/CKOqk-iTcbs)
     - ["Путешествие к центру Земли", 1999](https://github.com/tuttelikz/awesome-classics/blob/master/films/Puteshestvie.md) [[смотреть]](https://youtu.be/o79McCQPjTQ)
@@ -181,3 +181,14 @@
 ------ | -----
 
 > Этот «дневник» был первоначально опубликован анонимно и имел феноменальный успех. Гюго не сообщает, в чем вина этого приговоренного, он просто недоумевает: существует ли преступление, соизмеримое с муками, которые испытывают осужденные в ожидании исполнения приговора? Откуда у одного человека появляется право лишать жизни другого?Повесть выходит вместе с предисловием от издателя (то есть автора), где Гюго утверждает, что его роль – «роль ходатая за всех возможных подсудимых, виновных или невинных, перед всеми судами и судилищами, перед всеми присяжными, перед всеми вершителями правосудия».Написанная в позапрошлом веке, повесть поражает своей актуальностью и сегодня.
+
+#### [Мартин Иден](https://www.goodreads.com/book/show/18403591?from_search=true)
+Автор: Джек Лондон  
+Год: 1909  
+Оценка: 4.42   
+
+[Текст](https://www.e-reading.club/book.php?book=35074) | [Фильм, 1976](https://www.youtube.com/watch?v=BVS6pk0kwB0) | [Заметки](https://github.com/tuttelikz/awesome-classics/blob/master/writers/london/MartinEden.md)
+------ | ----- | -----
+
+> Окленд 1920-ых годов. Мартин Иден изо всех сил пытается преодолеть свое пролетарское происхождение, интенсивно и страстно занимаясь самообразованием, надеясь занять достойное положение среди литературной элиты Америки. Его поступками и стремлениями движет любовь к Рут Морзе. По мнению семьи Морзе, Иден всего лишь грубый и неотесанный мужлан, малообразованная матросня, он никак не может претендовать на руку и сердце Рут, происходящей из состоятельной буржуазной семьи. Брак между ними невозможен, пока Мартин не достигнет подобающего положения в обществе или соответствующего благосостояния.  
+Два года Мартин убеждает невесту, что успех непременно придет, но, постепенно, Рут теряет терпение.
