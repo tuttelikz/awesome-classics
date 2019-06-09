@@ -23,7 +23,7 @@
         - [Двадцать тысяч льё под водой](#двадцать-тысяч-лье-под-водой)
         - [Таинственный остров](#таинственный-остров)
     - Виктор Гюго
-        - [Собор Парижской Богоматери](https://github.com/tuttelikz/awesome-classics/blob/master/writers/hugo/Sobor.md) [[читать]](https://www.e-reading.club/book.php?book=75822)
+        - [Собор Парижской Богоматери](#собор-парижской-богоматери)
         - [Отверженные](https://github.com/tuttelikz/awesome-classics/blob/master/writers/hugo/Otverjennye.md) [[читать]](https://www.e-reading.club/book.php?book=75819) :fire:
         - [Труженики моря](https://github.com/tuttelikz/awesome-classics/blob/master/writers/hugo/Trujeniki.md) [[читать]](https://www.e-reading.club/book.php?book=75819)
         - [Последний день приговоренного к смерти](https://github.com/tuttelikz/awesome-classics/blob/master/writers/hugo/PosledniDen.md) [[читать]](https://www.e-reading.club/book.php?book=17882)
@@ -46,7 +46,7 @@
     - ["Отверженные", 1982](https://github.com/tuttelikz/awesome-classics/blob/master/films/Otverjennye.md) [[смотреть]](https://youtu.be/ysX2waveBVY)
     - ["Отелло", 1955](https://github.com/tuttelikz/awesome-classics/blob/master/films/Otello.md) [[смотреть]](https://youtu.be/CKOqk-iTcbs)
     - ["Путешествие к центру Земли", 1999](https://github.com/tuttelikz/awesome-classics/blob/master/films/Puteshestvie.md) [[смотреть]](https://youtu.be/o79McCQPjTQ)
-    - ["Собор Парижской Богоматери", 1956](https://github.com/tuttelikz/awesome-classics/blob/master/films/Sobor.md) [[смотреть]](https://ok.ru/video/203903077065)
+    - ["Собор Парижской Богоматери", 1956](https://github.com/tuttelikz/awesome-classics/blob/master/films/Sobor.md) 
     - ["Труженики моря", 1986](https://github.com/tuttelikz/awesome-classics/blob/master/films/TrujenikiMorya.md) [[смотреть]](https://www.youtube.com/playlist?list=PLcEEyVUarmFME_QERWI3quXjPIsoKtmjo)
     - ["Унесенные ветром", 1939](https://github.com/tuttelikz/awesome-classics/blob/master/films/Unesennye.md) [[смотреть]](https://vimeo.com/122693235)
     
@@ -139,3 +139,15 @@
 
 > «Таинственный остров» - один из самых известных приключенческо-фантастических романов от основоположника фантастического жанра, Жюля Верна.  
 1865 год. Гражданская война в США. Пятеро северян бегут из Ричмонда на воздушном шаре, спасаясь от окруживших город конфедератов. Внезапно налетевшая буря путает все планы беглецов. Воздушный шар сбивается с курса и героев выбрасывает на необитаемый остров в Тихом океане. Теперь им предстоит выжить в суровых условиях. Маленькая команда сплачивается вокруг незаменимых умений талантливого инженера Сайерса Смита. Каждый вносит свою посильную лепту в общее дело, в надежде вернуться в цивилизованный мир. Но, кажется, сам остров таит в себе тайну и за потерпевшими крушение наблюдает кто-то посторонний.
+
+#### [Собор Парижской Богоматери](https://www.goodreads.com/book/show/42736239?ac=1&from_search=true)
+Автор: Виктор Гюго  
+Год: 1831  
+Оценка: 4.35   
+
+[Текст](https://www.e-reading.club/book.php?book=75822) | [Фильм, 1956](https://ok.ru/video/203903077065) | [Заметки](https://github.com/tuttelikz/awesome-classics/blob/master/writers/hugo/Sobor.md)
+------ | ----- | -----
+
+> Эта история начинается на Крещение, 6 января 1482 года, в день праздника дураков в Париже. Квазимодо, горбатого и уродливого звонаря собора Нотр-Дам коронуют как папу дураков.  
+Но главный на этом веселом празднике все же не он. Цыганка Эсмеральда, прекрасная уличная танцовщица с добрым и щедрым сердцем, своей задорной пляской покорила мужские сердца: и капитана королевских стрелков Феба де Шатопера, и молодого драматурга Пьера Гренгуара, и,особенно, горбуна Квазимодо, и, что стало роковым для плясуньи, архидьякона собора Нотр-Дам отца Клода Фролло.  
+Монументальный эпос об истории французского народа, воплощенный в образе великого собора, ставшего не только свидетелем, но молчаливым участником этой трагической истории любви, замешанной на ненависти и предательстве, жертвенности и самоотречении. 
