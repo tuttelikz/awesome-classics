@@ -25,7 +25,7 @@
     - Виктор Гюго
         - [Собор Парижской Богоматери](#собор-парижской-богоматери)
         - [Отверженные](#отверженные) :fire:
-        - [Труженики моря](https://github.com/tuttelikz/awesome-classics/blob/master/writers/hugo/Trujeniki.md) [[читать]](https://www.e-reading.club/book.php?book=75819)
+        - [Труженики моря]()
         - [Последний день приговоренного к смерти](https://github.com/tuttelikz/awesome-classics/blob/master/writers/hugo/PosledniDen.md) [[читать]](https://www.e-reading.club/book.php?book=17882)
         
     - Джек Лондон
@@ -47,7 +47,7 @@
     - ["Отелло", 1955](https://github.com/tuttelikz/awesome-classics/blob/master/films/Otello.md) [[смотреть]](https://youtu.be/CKOqk-iTcbs)
     - ["Путешествие к центру Земли", 1999](https://github.com/tuttelikz/awesome-classics/blob/master/films/Puteshestvie.md) [[смотреть]](https://youtu.be/o79McCQPjTQ)
     - ["Собор Парижской Богоматери", 1956](https://github.com/tuttelikz/awesome-classics/blob/master/films/Sobor.md) 
-    - ["Труженики моря", 1986](https://github.com/tuttelikz/awesome-classics/blob/master/films/TrujenikiMorya.md) [[смотреть]](https://www.youtube.com/playlist?list=PLcEEyVUarmFME_QERWI3quXjPIsoKtmjo)
+    - ["Труженики моря", 1986](https://github.com/tuttelikz/awesome-classics/blob/master/films/TrujenikiMorya.md)
     - ["Унесенные ветром", 1939](https://github.com/tuttelikz/awesome-classics/blob/master/films/Unesennye.md) [[смотреть]](https://vimeo.com/122693235)
     
 - Классика и Оскар:
@@ -161,3 +161,13 @@
 ------ | ----- | -----
 
 > Перед вами один из самых известных персонажей в мировой литературе – Жан Вальжан – благородный крестьянин, отправленный на каторгу за украденную буханку хлеба. «Отверженные» - один из величайших романов во всей мировой литературе. Виктор Гюго погружает читателя в лабиринты парижского дна, ведет его на битву добра и зла, выносит на революционные баррикады. Эта драматическая история захватывает разум и душу: преступление и наказание, неустанное и бесчеловечное преследование Жана Вальжана инспектором Жавером, отчаяние проститутки Фатины, безнравственность Тенардье. Гюго рисует свое полотно французской жизни эпического масштаба, разыгрывает экстравагантный спектакль, который поражает своим классическим великолепием и оставляет вечную печать в душах читателей.
+
+#### [Труженики моря](https://www.goodreads.com/book/show/38120144?ac=1&from_search=true)
+Автор: Виктор Гюго  
+Год: 1866  
+Оценка: 4.07   
+
+[Текст](https://www.e-reading.club/book.php?book=75819) | [Фильм, 1986](https://www.youtube.com/playlist?list=PLcEEyVUarmFME_QERWI3quXjPIsoKtmjo) | [Заметки](https://github.com/tuttelikz/awesome-classics/blob/master/writers/hugo/Trujeniki.md)
+------ | ----- | -----
+
+> Роман французского писателя Виктора Гюго «Труженики моря» рассказывает о тяжелом труде простых рыбаков, воспевает героическую борьбу человека с силами природы.
