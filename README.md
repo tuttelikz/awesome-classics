@@ -40,7 +40,6 @@
 **Кино**
 - Экранизации по книгам:
     - ["Граф Монте - Кристо", 1954](https://github.com/tuttelikz/awesome-classics/blob/master/films/Graf.md) [[смотреть]](https://youtu.be/vQle5IVtY94)
-    - ["Мартин Иден", 1976](https://github.com/tuttelikz/awesome-classics/blob/master/films/MartinEden.md)
     - ["Отверженные", 1982](https://github.com/tuttelikz/awesome-classics/blob/master/films/Otverjennye.md)
     - ["Отелло", 1955](https://github.com/tuttelikz/awesome-classics/blob/master/films/Otello.md) [[смотреть]](https://youtu.be/CKOqk-iTcbs)
     - ["Путешествие к центру Земли", 1999](https://github.com/tuttelikz/awesome-classics/blob/master/films/Puteshestvie.md) [[смотреть]](https://youtu.be/o79McCQPjTQ)
