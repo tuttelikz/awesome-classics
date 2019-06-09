@@ -1,7 +1,8 @@
 
 # Awesome Classics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Коллекция цитат из выдающихся произведений писателей мировой классики! (Книги :books: + Экранизации :movie_camera:)  
+Коллекция цитат из выдающихся произведений писателей мировой классики :sunglasses:   
+(Книги :books: + Экранизации :movie_camera:)  
 Спасибо за вдохновение: `awesome-scifi`.  
 Если желаете внести свой вклад, пожалуйста отправьте *pull request*. 
 Профиль Github: [@tuttelikz](https://github.com/tuttelikz)  
