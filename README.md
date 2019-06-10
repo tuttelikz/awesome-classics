@@ -68,7 +68,7 @@ Email: [s.askaruly@gmail.com](mailto:s.askaruly@gmail.com)
 Год: 1604  
 Оценка: 3.88   
 
-[Текст](https://www.e-reading.club/book.php?book=80925) | [Фильм, 1956](https://youtu.be/CKOqk-iTcbs) | [Заметки](https://github.com/tuttelikz/awesome-classics/blob/master/films/Otello.md)
+[Текст](https://www.e-reading.club/book.php?book=80925) | [Фильм, 1956](https://youtu.be/CKOqk-iTcbs) | [Заметки](https://github.com/tuttelikz/awesome-classics/blob/master/writers/shakespeare/Otello.md)
 ------ | ----- | -----
 
 > На фоне эпидемии чумы и смерти великой королевы Елизаветы I Шекспир пишет одну из величайших своих трагедий о пылком и ревнивом мавре, всепоглощающе любившем свою жену Дездемону.  
