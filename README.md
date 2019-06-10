@@ -79,7 +79,7 @@ Email: [s.askaruly@gmail.com](mailto:s.askaruly@gmail.com)
 Год: 1844  
 Оценка: 4.49   
 
-[Текст](https://www.e-reading.club/book.php?book=96304) | [Фильм, 1954](https://youtu.be/vQle5IVtY94) | [Заметки](https://github.com/tuttelikz/awesome-classics/blob/master/films/Graf.md)
+[Текст](https://www.e-reading.club/book.php?book=96304) | [Фильм, 1954](https://youtu.be/vQle5IVtY94) | [Заметки](https://github.com/tuttelikz/awesome-classics/blob/master/writers/dumas/Graf.md)
 ------ | ----- | -----
 
 > События разворачиваются во Франции начала 19 в. Эдмон Дантес - марсельский моряк, выполнявший предсмертную волю капитана корабля, доставляет в Париж письмо. Прибыв в порт, Дантес намеревался жениться на Мерседес, девушке из соседней деревни. Но из-за злобных интриг врагов он попадает в замок Иф.
