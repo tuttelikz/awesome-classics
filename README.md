@@ -4,7 +4,8 @@
 Коллекция цитат из выдающихся произведений писателей мировой классики :speech_balloon:  
 (Книги :books: + Экранизации :movie_camera:)  
 Спасибо за вдохновение: `awesome-scifi`.  
-Если желаете внести свой вклад, пожалуйста отправьте *pull request*.  
+Если желаете внести свой вклад, пожалуйста отправьте *pull request* или свяжитесь со мной.  
+  
 Профиль Github: [@tuttelikz](https://github.com/tuttelikz)  
 Профиль Goodreads: [@tuttelikz](https://www.goodreads.com/user/show/40108323-sanzhar)  
 Email: [s.askaruly@gmail.com](mailto:s.askaruly@gmail.com)  
