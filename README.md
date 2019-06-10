@@ -164,7 +164,7 @@ Email: [s.askaruly@gmail.com](mailto:s.askaruly@gmail.com)
 Год: 1873  
 Оценка: 3.92   
 
-[Текст](https://www.e-reading.club/book.php?book=11114) | [Фильм, 1989](https://www.youtube.com/playlist?list=PLcEEyVUarmFO-x3jzCYhWS_Az5QRSKxR2) | [Заметки](https://github.com/tuttelikz/awesome-classics/blob/master/films/VokrugSveta.md)
+[Текст](https://www.e-reading.club/book.php?book=11114) | [Фильм, 1989](https://www.youtube.com/playlist?list=PLcEEyVUarmFO-x3jzCYhWS_Az5QRSKxR2) | [Заметки](https://github.com/tuttelikz/awesome-classics/blob/master/writers/verne/VokrugSveta.md)
 ------ | ----- | -----
 
 > Впервые опубликованный в 1873 году, роман «Вокруг света за 80 дней» и сегодня остается одним из самых известных романов основоположника приключенческого жанра.  
