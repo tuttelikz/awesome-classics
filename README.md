@@ -264,7 +264,7 @@ Email: [s.askaruly@gmail.com](mailto:s.askaruly@gmail.com)
 Год: 1906  
 Оценка: 4.53   
 
-[Текст](https://www.e-reading.club/book.php?book=35081) | [Фильм, 1946](https://www.youtube.com/watch?v=oENiIrmZiaA) | [Цитаты](https://github.com/tuttelikz/awesome-classics/blob/master/writers/london/BelyKlyk.md)
+[Текст](https://www.e-reading.club/book.php?book=80428) | [Фильм, 1946](https://www.youtube.com/watch?v=oENiIrmZiaA) | [Цитаты](https://github.com/tuttelikz/awesome-classics/blob/master/writers/london/BelyKlyk.md)
 ------ | ----- | -----
 
 > Один из самых известных приключенческих романов Джека Лондона. Его главный герой - волк по кличке Белый Клык, прирученный людьми на Аляске во времена золотой лихорадки. Это полный драматизма рассказ от имени волка о людях. О разных людях. О жестоких и злых, о трусах и предателях, добрых и сострадательных, благородных и благодарных. Об всех, с кем пришлось столкнуться Белому Клыку на своем нелегком жизненном пути.  
