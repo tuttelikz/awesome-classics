@@ -1,5 +1,5 @@
 
-# Awesome Classics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Classics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/tuttelikz/awesome-classics)
 
 Коллекция цитат из произведений мировой классики :speech_balloon:  
 (Книги :books: + Экранизации :movie_camera:)  
