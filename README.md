@@ -10,6 +10,12 @@
 Профиль Goodreads: [@tuttelikz](https://www.goodreads.com/user/show/40108323-sanzhar)  
 Email: [s.askaruly@gmail.com](mailto:s.askaruly@gmail.com)  
 
+[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/tuttelikz/awesome-classics.svg
+)](https://github.com/tuttelikz/awesome-classics)
+[![GitHub last commit](https://img.shields.io/github/last-commit/tuttelikz/awesome-classics.svg
+)](https://github.com/tuttelikz/awesome-classics) 
+
+
 ## Содержание:  
 
 **Книги:**
