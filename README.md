@@ -3,7 +3,7 @@
 
 Коллекция цитат из произведений мировой классики :speech_balloon:  
 (Книги :books: + Экранизации :movie_camera:)  
-Спасибо за вдохновение: репозиторию `awesome-scifi` от @sindresorhus.  
+Спасибо за вдохновение: репозиторию `awesome-scifi` от [@sindresorhus](https://github.com/sindresorhus)
 Если желаете внести свой вклад, пожалуйста свяжитесь со мной.  
   
 Профиль Github: [@tuttelikz](https://github.com/tuttelikz)  
