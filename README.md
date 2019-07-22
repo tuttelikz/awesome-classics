@@ -1,10 +1,14 @@
 
 # Awesome Classics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/tuttelikz/awesome-classics)
 
+**Описание:**  
 Коллекция цитат из произведений мировой классики :speech_balloon:  
 (Книги :books: + Экранизации :movie_camera:)  
-Спасибо за вдохновение: репозиторию [`awesome-scifi`](https://github.com/sindresorhus/awesome-scifi) от [**@sindresorhus**](https://github.com/sindresorhus).  
-  
+
+**Благодарность:**  
+Спасибо за вдохновение [@sindresorhus](https://github.com/sindresorhus) и соавторам [`awesome-scifi`](https://github.com/sindresorhus/awesome-scifi)
+
+**Контакты:**  
 Если у вас есть рекоммендации или же вы желаете внести свой вклад, пожалуйста свяжитесь со мной:  
 Профиль Github: [@tuttelikz](https://github.com/tuttelikz)  
 Профиль Goodreads: [@tuttelikz](https://www.goodreads.com/user/show/40108323-sanzhar)  
@@ -15,7 +19,7 @@ Email: [s.askaruly@gmail.com](mailto:s.askaruly@gmail.com)
 [![GitHub last commit](https://img.shields.io/github/last-commit/tuttelikz/awesome-classics.svg
 )](https://github.com/tuttelikz/awesome-classics) 
 
-
+***
 ## Содержание:  
 
 **Книги:**
