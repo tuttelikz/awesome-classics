@@ -10,8 +10,8 @@
 
 **Контакты:**  
 Если у вас есть рекоммендации или же вы желаете внести свой вклад, пожалуйста свяжитесь:  
-Профиль Github: [@tuttelikz](https://github.com/tuttelikz)  
-Профиль Goodreads: [@tuttelikz](https://www.goodreads.com/user/show/40108323-sanzhar)  
+Github: [@tuttelikz](https://github.com/tuttelikz)  
+Goodreads: [@tuttelikz](https://www.goodreads.com/user/show/40108323-sanzhar)  
 Email: [s.askaruly@gmail.com](mailto:s.askaruly@gmail.com)  
 
 [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/tuttelikz/awesome-classics.svg
