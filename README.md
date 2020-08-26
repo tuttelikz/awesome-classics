@@ -10,7 +10,10 @@
 
 **Notes:**  
 Feel free to use. No credits.  
-For contributions, send push.
+For contributions, send push.  
+
+**License:**  
+[MIT License](https://github.com/tuttelikz/MATLAB-Cody/blob/master/LICENSE)
 
 [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/tuttelikz/awesome-classics.svg
 )](https://github.com/tuttelikz/awesome-classics)
