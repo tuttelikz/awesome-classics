@@ -8,11 +8,9 @@
 **Благодарность:**  
 Спасибо за вдохновение [@sindresorhus](https://github.com/sindresorhus) и соавторам [`awesome-scifi`](https://github.com/sindresorhus/awesome-scifi)
 
-**Контакты:**  
-Если у вас есть рекоммендации *по улучшению* или желаете *внести* свой *вклад*, пожалуйста свяжитесь:  
-Github: [@tuttelikz](https://github.com/tuttelikz)  
-Goodreads: [@tuttelikz](https://www.goodreads.com/user/show/40108323-sanzhar)  
-Email: [s.askaruly@gmail.com](mailto:s.askaruly@gmail.com)  
+**Notes:**  
+Feel free to use. No credits.  
+For contributions, send push.
 
 [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/tuttelikz/awesome-classics.svg
 )](https://github.com/tuttelikz/awesome-classics)
