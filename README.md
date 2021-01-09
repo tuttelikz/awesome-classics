@@ -10,7 +10,7 @@
 
 **Notes:**  
 Feel free to use. No credits.  
-For contributions, send push.  
+For contributions, send PR.  
 
 **License:**  
 [MIT License](https://github.com/tuttelikz/MATLAB-Cody/blob/master/LICENSE)
